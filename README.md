@@ -453,19 +453,6 @@ Your assignment is complete when:
 
 ---
 
-## Additional Resources
-
-- [GitHub Desktop Documentation](https://docs.github.com/en/desktop)
-- [Wwise Documentation](https://www.audiokinetic.com/library/)
-- [Git Visualizer](https://git-school.github.io/visualizing-git/)
-- [Free Sound Effects - Freesound](https://freesound.org)
-- [Unity Learn](https://learn.unity.com)
-- [Audacity (free audio editor)](https://www.audacityteam.org)
-
-**Questions?** Ask in class, on Discord/Slack, or email the instructor. Collaboration is part of learning - don't struggle alone!
-
----
-
 ## Tips for Success
 
 - **Start early** - Don't wait until the last minute in case you encounter issues
