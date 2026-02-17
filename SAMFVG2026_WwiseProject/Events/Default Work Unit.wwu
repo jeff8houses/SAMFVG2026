@@ -32,6 +32,19 @@
 						<Property Name="Color" Type="int16" Value="5"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
 					</PropertyList>
+					<ChildrenList>
+						<Event Name="IngleTingle" ID="{4A9FF943-7891-42F6-8A2F-62657AE3BDC9}">
+							<ChildrenList>
+								<Action Name="" ID="{C5254EBA-8D67-4E45-9591-A56DA40473DE}" ShortID="435610521">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="IngleTingle" ID="{D6788AD4-77FD-43B5-A6DF-1B26DB0F9B8C}" WorkUnitID="{64D099FE-0FEB-47B1-9D2F-3C97AEDA8F92}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
 				</Folder>
 				<Folder Name="Lipka" ID="{1A141D01-36F3-4D89-AFAF-1CA5CEA3E882}" ShortID="890427744">
 					<PropertyList>

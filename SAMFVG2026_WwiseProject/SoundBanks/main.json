@@ -1,0 +1,71 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{A78CE3DB-71B9-4277-950B-48CC0045A7C3}",
+    "Language": "SFX",
+    "Hash": "{EA14DE1A-1727-B2CB-8F56-02F816BC7CD4}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\main",
+    "ShortName": "main",
+    "Path": "main.bnk",
+    "Media": [
+     {
+      "Id": "288697649",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "metal-pipe-clang.wav",
+      "CachePath": "70/{7062DDA5-D200-E3F3-C33A-95CC7695CFF7}.wem"
+     },
+     {
+      "Id": "459434770",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "Bluezone_BC0294_modern_cinematic_impact_percussion_009.wav",
+      "CachePath": "C7/{C7E88BE3-D96E-65D2-C7BD-79AF43D4B0BC}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1761501016",
+      "Name": "boom",
+      "ObjectPath": "\\Events\\Default Work Unit\\Merkel\\boom",
+      "GUID": "{76596C8C-E65C-459D-A195-92F0026FE9B8}",
+      "Color": "8",
+      "DurationType": "OneShot",
+      "DurationMin": "1.3116007",
+      "DurationMax": "1.3116007",
+      "MediaRefs": [
+       {
+        "Id": "459434770"
+       }
+      ]
+     },
+     {
+      "Id": "1586225855",
+      "Name": "IngleTingle",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ingle\\IngleTingle",
+      "GUID": "{4A9FF943-7891-42F6-8A2F-62657AE3BDC9}",
+      "Color": "5",
+      "DurationType": "OneShot",
+      "DurationMin": "1.4760412",
+      "DurationMax": "5.184601",
+      "MediaRefs": [
+       {
+        "Id": "288697649"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{EA16E9AD-E9D7-8574-8D4F-3C2D602E9EE5}"
+ }
+}

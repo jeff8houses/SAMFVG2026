@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "1586225855",
+    "Type": "Event",
+    "GUID": "{4A9FF943-7891-42F6-8A2F-62657AE3BDC9}",
+    "Language": "SFX",
+    "Hash": "{621C4771-A34F-0B46-8D5C-50CF90D3713D}",
+    "ObjectPath": "IngleTingle",
+    "ShortName": "IngleTingle",
+    "Path": "Event/IngleTingle.bnk",
+    "Media": [
+     {
+      "Id": "288697649",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "metal-pipe-clang.wav",
+      "Path": "Media/288697649.wem",
+      "CachePath": "70/{7062DDA5-D200-E3F3-C33A-95CC7695CFF7}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1586225855",
+      "Name": "IngleTingle",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ingle\\IngleTingle",
+      "GUID": "{4A9FF943-7891-42F6-8A2F-62657AE3BDC9}",
+      "Color": "5",
+      "DurationType": "OneShot",
+      "DurationMin": "1.4760412",
+      "DurationMax": "5.184601",
+      "MediaRefs": [
+       {
+        "Id": "288697649"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5A951CB7-085A-E023-8D6D-582BA8BFA2BE}"
+ }
+}

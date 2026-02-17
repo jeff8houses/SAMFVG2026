@@ -78,6 +78,45 @@
 						<Property Name="Color" Type="int16" Value="5"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
 					</PropertyList>
+					<ChildrenList>
+						<Sound Name="IngleTingle" ID="{D6788AD4-77FD-43B5-A6DF-1B26DB0F9B8C}" ShortID="202837016">
+							<PropertyList>
+								<Property Name="Pitch" Type="int32">
+									<ModifierList>
+										<ModifierInfo>
+											<Modifier Name="" ID="{5A66DBC1-49BC-48EA-B021-DCC1762F4B19}">
+												<PropertyList>
+													<Property Name="Enabled" Type="bool" Value="True"/>
+													<Property Name="Max" Type="Real64" Value="2450"/>
+													<Property Name="Min" Type="Real64" Value="-2400"/>
+												</PropertyList>
+											</Modifier>
+										</ModifierInfo>
+									</ModifierList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{962F57F0-C5BB-4A96-9E3B-AF21876C3499}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8AA45109-3BB3-4356-A12B-3E3680712460}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="metal-pipe-clang" ID="{60780B33-B449-41C9-862E-9983BBE6044E}">
+									<Language>SFX</Language>
+									<AudioFile>metal-pipe-clang.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="288697649"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="metal-pipe-clang" ID="{60780B33-B449-41C9-862E-9983BBE6044E}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
 				</Folder>
 				<Folder Name="Lipka" ID="{12AF4153-DEC0-4022-95A3-A90769B7CB6B}" ShortID="551167013">
 					<PropertyList>
