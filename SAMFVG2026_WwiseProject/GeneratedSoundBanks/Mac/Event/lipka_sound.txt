@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2528488452	lipka_sound			\Default Work Unit\Lipka\lipka_sound	
+

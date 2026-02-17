@@ -14,6 +14,7 @@ namespace AK
     namespace EVENTS
     {
         static const AkUniqueID BOOM = 1761501016U;
+        static const AkUniqueID LIPKA_SOUND = 2528488452U;
     } // namespace EVENTS
 
     namespace BANKS

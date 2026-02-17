@@ -2,5 +2,5 @@ Event	ID	Name			Wwise Object Path	Notes
 	1761501016	boom			\Default Work Unit\Merkel\boom	
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	459434770	boom	.cache\19\{1957EEE6-1A6B-3BA4-1A1A-8B85B88A86F2}.wem		\Containers\Default Work Unit\Merkel\boom		384004
+	459434770	boom	.cache\C7\{C7E88BE3-D96E-65D2-C7BD-79AF43D4B0BC}.wem		\Containers\Default Work Unit\Merkel\boom		384004
 

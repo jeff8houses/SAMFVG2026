@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "2528488452",
+    "Type": "Event",
+    "GUID": "{E8DC1B96-AAF2-48BE-9F11-783952CAA8BF}",
+    "Language": "SFX",
+    "Hash": "{FD1855A1-21D5-C096-F331-5314C97DC6D7}",
+    "ObjectPath": "lipka_sound",
+    "ShortName": "lipka_sound",
+    "Path": "Event/lipka_sound.bnk",
+    "Media": [
+     {
+      "Id": "5408232",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "Misc_BreathAttack.wav",
+      "Path": "Media/5408232.wem",
+      "CachePath": "D0/{D0EBEDC1-9C63-988D-589F-E0EAD255D18E}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2528488452",
+      "Name": "lipka_sound",
+      "ObjectPath": "\\Events\\Default Work Unit\\Lipka\\lipka_sound",
+      "GUID": "{E8DC1B96-AAF2-48BE-9F11-783952CAA8BF}",
+      "Color": "6",
+      "DurationType": "OneShot",
+      "DurationMin": "6.4963946",
+      "DurationMax": "6.4963946",
+      "MediaRefs": [
+       {
+        "Id": "5408232"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{2E68D14C-AC8C-C002-AD4A-741EFD73D918}"
+ }
+}

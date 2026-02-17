@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "SAMFVG2026.slnx"
+    "dotnet.defaultSolution": "What-the-fork.slnx"
 }
