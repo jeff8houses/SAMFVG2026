@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1084644458	Play_Shinozawa			\Default Work Unit\Shinozawa\Play_Shinozawa	
+
