@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 411212979}
   - component: {fileID: 411212978}
   m_Layer: 0
-  m_Name: Sphere (1)
+  m_Name: Ramirez_Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
