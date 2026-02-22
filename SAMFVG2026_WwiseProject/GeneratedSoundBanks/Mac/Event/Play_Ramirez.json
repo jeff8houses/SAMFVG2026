@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "3137807882",
+    "Type": "Event",
+    "GUID": "{2BE2CFF8-39AD-43AB-B930-82B3C5272F81}",
+    "Language": "SFX",
+    "Hash": "{8000F274-DE4B-3A88-C55D-5A79B60727BE}",
+    "ObjectPath": "Play_Ramirez",
+    "ShortName": "Play_Ramirez",
+    "Path": "Event/Play_Ramirez.bnk",
+    "Media": [
+     {
+      "Id": "407826819",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "412017__skymary__cat-meow-short.wav",
+      "Path": "Media/407826819.wem",
+      "CachePath": "D5/{D5731A1B-0EF4-14AF-2C7F-B7261FC1F1C0}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "3137807882",
+      "Name": "Play_Ramirez",
+      "ObjectPath": "\\Events\\Default Work Unit\\Ramirez\\Play_Ramirez",
+      "GUID": "{2BE2CFF8-39AD-43AB-B930-82B3C5272F81}",
+      "Color": "10",
+      "DurationType": "OneShot",
+      "DurationMin": "1.75",
+      "DurationMax": "1.75",
+      "MediaRefs": [
+       {
+        "Id": "407826819"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{3E9F52AD-F8D1-7820-09D2-6AE761B9397A}"
+ }
+}
