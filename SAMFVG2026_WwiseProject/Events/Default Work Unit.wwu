@@ -75,6 +75,19 @@
 						<Property Name="Color" Type="int16" Value="10"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
 					</PropertyList>
+					<ChildrenList>
+						<Event Name="Play_Ramirez" ID="{2BE2CFF8-39AD-43AB-B930-82B3C5272F81}">
+							<ChildrenList>
+								<Action Name="" ID="{37EE072F-CFB1-456B-B68C-628087E8C7B3}" ShortID="674304878">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="412017__skymary__cat-meow-short" ID="{D1EB28E1-AAA4-4FFD-ABAF-73941B607B21}" WorkUnitID="{64D099FE-0FEB-47B1-9D2F-3C97AEDA8F92}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
 				</Folder>
 				<Folder Name="Shinozawa" ID="{D79A293E-8348-40F3-B8A9-5921A19D5F8B}" ShortID="325024189">
 					<PropertyList>
