@@ -8,6 +8,19 @@
 						<Property Name="Color" Type="int16" Value="1"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
 					</PropertyList>
+					<ChildrenList>
+						<Event Name="Play_Alley" ID="{4FD810B2-F757-4050-8329-B9E14E04CF3A}">
+							<ChildrenList>
+								<Action Name="" ID="{8727E9FA-9042-42D7-A935-67EBF32E1117}" ShortID="490904083">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="PlayerHit" ID="{1A57CB4C-5C26-4C07-ACDF-158BF0EA4EE5}" WorkUnitID="{64D099FE-0FEB-47B1-9D2F-3C97AEDA8F92}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
 				</Folder>
 				<Folder Name="Cortinas-Rios" ID="{310D4ED7-224C-4ADE-90BF-81340E89F646}" ShortID="824292591">
 					<PropertyList>
