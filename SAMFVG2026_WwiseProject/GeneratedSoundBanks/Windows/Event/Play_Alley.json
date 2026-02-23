@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "519504617",
+    "Type": "Event",
+    "GUID": "{4FD810B2-F757-4050-8329-B9E14E04CF3A}",
+    "Language": "SFX",
+    "Hash": "{AAE08384-150B-F586-8F5B-AC66900AD74F}",
+    "ObjectPath": "Play_Alley",
+    "ShortName": "Play_Alley",
+    "Path": "Event/Play_Alley.bnk",
+    "Media": [
+     {
+      "Id": "868936934",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "PlayerHit.wav",
+      "Path": "Media/868936934.wem",
+      "CachePath": "76/{76D22E57-96BC-3E6D-8638-44BDE017002D}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "519504617",
+      "Name": "Play_Alley",
+      "ObjectPath": "\\Events\\Default Work Unit\\Alley\\Play_Alley",
+      "GUID": "{4FD810B2-F757-4050-8329-B9E14E04CF3A}",
+      "Color": "1",
+      "DurationType": "OneShot",
+      "DurationMin": "1.0009515",
+      "DurationMax": "1.0009515",
+      "MediaRefs": [
+       {
+        "Id": "868936934"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{5B4DC695-13F4-C9FE-F07E-CC42F0D10A83}"
+ }
+}
