@@ -14,6 +14,19 @@
 						<Property Name="Color" Type="int16" Value="2"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
 					</PropertyList>
+					<ChildrenList>
+						<Event Name="swoosh" ID="{78E9064A-3AAB-4F40-B83B-C75BC7037CCD}">
+							<ChildrenList>
+								<Action Name="" ID="{D0F2ECD8-46BE-4488-9980-DF548D07B9FD}" ShortID="1052889730">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="swoosh" ID="{AEF8C0AB-8AAD-4634-983A-89FFF948AF88}" WorkUnitID="{64D099FE-0FEB-47B1-9D2F-3C97AEDA8F92}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
 				</Folder>
 				<Folder Name="Davis" ID="{36AB9AFC-9A64-4A35-8485-25E82191C16B}" ShortID="888630602">
 					<PropertyList>

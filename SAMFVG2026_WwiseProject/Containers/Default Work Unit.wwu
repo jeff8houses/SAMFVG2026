@@ -60,6 +60,18 @@
 						<Property Name="Color" Type="int16" Value="2"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
 					</PropertyList>
+					<ChildrenList>
+						<Sound Name="swoosh" ID="{AEF8C0AB-8AAD-4634-983A-89FFF948AF88}" ShortID="777665770">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{962F57F0-C5BB-4A96-9E3B-AF21876C3499}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Main Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{8AA45109-3BB3-4356-A12B-3E3680712460}"/>
+								</Reference>
+							</ReferenceList>
+						</Sound>
+					</ChildrenList>
 				</Folder>
 				<Folder Name="Davis" ID="{EF40B748-965A-4CAD-8469-EEC17A511120}" ShortID="863453249">
 					<PropertyList>
