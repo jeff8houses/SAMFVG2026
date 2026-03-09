@@ -1,0 +1,49 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "172",
+  "SoundBanks": [
+   {
+    "Id": "2325796883",
+    "Type": "Event",
+    "GUID": "{4259D05C-CA94-40F8-B7DD-B0D53CD66E81}",
+    "Language": "SFX",
+    "Hash": "{1B7D230F-B1F7-D2C5-7286-3155933918B3}",
+    "ObjectPath": "Play_Verette",
+    "ShortName": "Play_Verette",
+    "Path": "Event/Play_Verette.bnk",
+    "Media": [
+     {
+      "Id": "797921081",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "fart.wav",
+      "Path": "Media/797921081.wem",
+      "CachePath": "3A/{3A9744A8-A803-07FC-F6AD-8AF003EC5C6B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "2325796883",
+      "Name": "Play_Verette",
+      "ObjectPath": "\\Events\\Default Work Unit\\Verette\\Play_Verette",
+      "GUID": "{4259D05C-CA94-40F8-B7DD-B0D53CD66E81}",
+      "Color": "12",
+      "DurationType": "OneShot",
+      "DurationMin": "1.2277551",
+      "DurationMax": "1.2277551",
+      "MediaRefs": [
+       {
+        "Id": "797921081"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{882F6623-8DE8-11AE-A82F-F324AFAF1BC2}"
+ }
+}
