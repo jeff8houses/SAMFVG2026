@@ -87,6 +87,19 @@
 						<Property Name="Color" Type="int16" Value="12"/>
 						<Property Name="OverrideColor" Type="bool" Value="True"/>
 					</PropertyList>
+					<ChildrenList>
+						<Event Name="Play_Verette" ID="{4259D05C-CA94-40F8-B7DD-B0D53CD66E81}">
+							<ChildrenList>
+								<Action Name="" ID="{D0A08EB0-EE43-46CF-A05C-4E8CE8DA66EE}" ShortID="737565415">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="fart" ID="{040456E6-575E-4442-B155-4D737327E02D}" WorkUnitID="{64D099FE-0FEB-47B1-9D2F-3C97AEDA8F92}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
 				</Folder>
 				<Folder Name="Willock" ID="{A943C4C8-C4E3-4A5C-9155-257301768559}" ShortID="915946272">
 					<PropertyList>
